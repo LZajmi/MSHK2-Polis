@@ -1,0 +1,59 @@
+### Footprint positions - created on 2024-11-09T23:50:12+0100 ###
+### Printed by KiCad version 8.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val              Package                                                  PosX       PosY       Rot  Side
+C1        4u7              C_0603_1608Metric                                     17.7500    34.2300  -90.0000  top
+C2        2u2              C_0603_1608Metric                                     24.7500    29.2500  180.0000  top
+C3        100n             C_0402_1005Metric                                     35.2500    36.7500   90.0000  top
+C4        2u2              C_0603_1608Metric                                     18.7500    41.0000  180.0000  top
+C5        100n             C_0402_1005Metric                                     22.7500    30.7500  180.0000  top
+C6        100n             C_0402_1005Metric                                     22.8000    46.5000  180.0000  top
+C7        100n             C_0402_1005Metric                                     19.5000    34.2500  -90.0000  top
+C8        10u              C_1206_3216Metric                                     24.8250    14.6625  180.0000  top
+C9        100n             C_0402_1005Metric                                     35.2500    43.2500   90.0000  top
+C10       1u               C_0402_1005Metric                                     27.4800    30.7500  180.0000  top
+C11       12p              C_0402_1005Metric                                     42.2500    37.2500    0.0000  top
+C12       10n              C_0402_1005Metric                                     27.5000    29.5000  180.0000  top
+C13       12p              C_0402_1005Metric                                     42.3500    42.6000  180.0000  top
+C14       10u              C_1206_3216Metric                                     41.6000    18.5000   90.0000  top
+C15       10u              C_1206_3216Metric                                     41.6000    13.2000  -90.0000  top
+C16       10n              C_0603_1608Metric                                     32.2500    21.7500   90.0000  top
+C17       100n             C_0402_1005Metric                                     36.2500    54.5000   90.0000  top
+C18       100n             C_0402_1005Metric                                     39.2500    55.2500  180.0000  top
+D1        BLUE             LED_0603_1608Metric                                   41.7500    30.7125   90.0000  top
+D2        B5819W           D_SOD-123                                             28.0000     6.0000  180.0000  top
+D3        B5819W           D_SOD-123                                             29.7500    14.7500  -90.0000  top
+D4        RED              LED_0603_1608Metric                                   39.5000    30.7125   90.0000  top
+F1        250mA            Fuse_1206_3216Metric                                  33.0000     8.6125  180.0000  top
+FB1       600_@_600MHz     L_0805_2012Metric                                     33.5000    11.0000    0.0000  top
+J2        10118193-0001LF  AMPHENOL_10118193-0001LF                              29.5000    61.5000  180.0000  top
+J3        Conn_01x04       Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal     6.2000    60.2250  -90.0000  top
+J4        SWD              PinHeader_2x05_P1.27mm_Vertical_SMD                   17.7500    60.7000  -90.0000  top
+J5        Conn_01x04       Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal    47.7500    56.4750   90.0000  top
+J6        TSW-120-24-T-S   SAMTEC_TSW-120-24-T-S                                  2.5000    50.2600  -90.0000  top
+J7        TSW-120-24-T-S   SAMTEC_TSW-120-24-T-S                                 51.5000    50.2600  -90.0000  top
+J8        DC-005           NINIGI_DC-005                                         12.7500    10.0000   90.0000  top
+L1        39n              L_0402_1005Metric                                     29.2500    30.2500   90.0000  top
+L2        10u              IND_SPM6530T-100M-HZ                                  35.2500    16.0000    0.0000  top
+Q1        AO3401A          SOT-23                                                25.3125    11.0000  180.0000  top
+R1        1k5              R_0603_1608Metric                                     41.7700    27.1750   90.0000  top
+R2        2k2              R_0402_1005Metric                                     15.5000    38.5000  -90.0000  top
+R3        100k             R_0603_1608Metric                                     25.5000    22.0000  -90.0000  top
+R4        68k              R_0603_1608Metric                                     25.5000    18.5000  -90.0000  top
+R5        10k              R_0402_1005Metric                                     12.7000    40.5000  -90.0000  top
+R6        2k2              R_0402_1005Metric                                     15.2500    35.7000   90.0000  top
+R7        47               R_0402_1005Metric                                     38.0000    41.0000   90.0000  top
+R8        47k              R_0603_1608Metric                                     31.5000    27.5000  -90.0000  top
+R9        15k              R_0603_1608Metric                                     28.7500    24.7500    0.0000  top
+R10       270              R_0603_1608Metric                                     32.2500    24.7500    0.0000  top
+R11       1k               R_0603_1608Metric                                     39.5000    27.1750   90.0000  top
+R12       2k2              R_0402_1005Metric                                     37.7500    48.7500  180.0000  top
+R13       2k2              R_0402_1005Metric                                     40.7500    48.7500    0.0000  top
+SW1       SW_SPDT          SW_SPDT_PCM12                                         10.5800    46.5000  -90.0000  top
+U1        STM32F405RGT6    LQFP-64_10x10mm_P0.5mm                                27.2500    38.7500   90.0000  top
+U2        MP2359DJ-LF-Z    SOT-23-6                                              29.0000    21.0000  -90.0000  top
+U3        USBLC6-2SC6      SOT-23-6                                              27.0000    50.7500  -90.0000  top
+U4        BMI270           XDCR_BMI270                                           39.2500    52.3375  180.0000  top
+Y1        16MHz            Crystal_SMD_3225-4Pin_3.2x2.5mm                       42.2500    40.0000    0.0000  top
+## End
