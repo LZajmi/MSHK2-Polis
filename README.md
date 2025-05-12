@@ -39,11 +39,9 @@ This repository contains STM32-based embedded systems (schematic only) where the
 
 2. 🧩 **Library Setup**
    - Inside each project folder is a symbol and footprint for the sensor.
-   - Import these into your PCB design software (e.g., KiCad or Altium).
 
 3. 🖼️ **Schematic Design**
-   - Create your own schematic based on the reference using the provided symbol.
-   - Do not add extra components—only the sensor and STM32 connections are needed.
+   - Connect the sensor to the STM32 MCU, using the proper pins depending on the communication protocol and using CubeMX.
 
 4. 🖥️ **PCB Design**
    - Convert your schematic to a PCB layout.
